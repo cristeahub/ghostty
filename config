@@ -1,0 +1,8 @@
+theme = catppuccin-mocha
+font-family = Liga SFMono Nerd Font
+window-width = 120
+window-height = 28
+macos-titlebar-style = tabs
+window-inherit-working-directory = false
+working-directory = home
+macos-option-as-alt = left
