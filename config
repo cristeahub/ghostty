@@ -6,3 +6,4 @@ macos-titlebar-style = tabs
 window-inherit-working-directory = false
 working-directory = home
 macos-option-as-alt = left
+resize-overlay = never
