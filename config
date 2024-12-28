@@ -5,5 +5,16 @@ window-height = 28
 macos-titlebar-style = tabs
 window-inherit-working-directory = false
 working-directory = home
-macos-option-as-alt = left
+macos-option-as-alt = right
 resize-overlay = never
+window-padding-x = 10
+window-padding-y = 10
+
+unfocused-split-opacity = 1
+
+# keybinds
+keybind = alt+h=goto_split:left
+keybind = alt+l=goto_split:right
+keybind = alt+k=goto_split:top
+keybind = alt+j=goto_split:bottom
+keybind = super+s=new_split:down
